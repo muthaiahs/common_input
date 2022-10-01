@@ -1,0 +1,120 @@
+
+
+
+Agile principles : 
+Individuals and interactions over processes and tools
+Working software over comprehensive documentation
+Customer collaboration over contract negotiation
+Responding to change over following a plan
+
+
+
+We focus on the people doing the work and on direct communication. 
+We focus on building the solution and getting frequent feedback. 
+We work to delight customers by working with them to achieve the best results.
+We need to respond to customer needs when they occur to enable success.
+
+
+SAFe : 
+Explain SAFe Agile Principles
+Plan Iterations
+Plan Program Increments
+Execute Iterations and demonstrate value
+Improve Agile Release Train processes
+Integrate and work with other teams on the Agile Release Train
+Perform as member of an Agile Team on an Agile Release Train
+
+
+AT : 
+The Agile team is a self-organizing, self-managing, cross-functional group of 7 to 11 people, colocated when possible. The size and structure of the team are optimized for communication, interaction, and the ability to deliver value. 
+
+The team is cross-functional, with all the roles and skills needed to develop and deliver increments of value. The self-organization and cross-functional nature of the team—along with constant communication, constructive conflict, and dynamic interaction—can create a productive and more enjoyable work environment for its members.
+
+Stories:
+Stories are short descriptions of a small piece of desired functionality. Stories provide just enough information for both business and technical people to understand the intent.
+Represent a piece of work that can be completed in an iteration, typically a 2-week period of time or less
+Are written from the perspective of the customer
+
+User stories are one way Agile teams express their work. Since user stories focus on the system benefits to the user, user stories are centered on value. 
+To support this, the user-voice format for story writing is as follows: 
+" As a (user role), I want to (activity), so that (business value). " 
+
+By using this format, teams are guided to understand who is using the system, what they are doing with it, and why they are doing it. Applying the user-voice format increases the team’s domain competence: they come to better understand the real needs of their user.
+
+The Product Owner (PO) is ultimately responsible for maximizing the delivered value of the team’s work. 
+
+
+
+The Product Owner:
+
+The Product Owner (PO) is ultimately responsible for maximizing the delivered value of the team’s work. 
+
+Manages the team’s work
+Ensures the team's work is well expressed and sequenced to best achieve customer value
+Ensures that current and potential future work is visible and clear 
+Serves as the customer proxy for the team 
+Ensures the team understands how their work addresses the needs of their users
+
+
+The Scrum Master:
+ Scrum Master is agile coach for an Agile team. 
+Models an Agile mindset and educates the team on Agile behaviors
+Removes impediments, things blocking the team from achieving their goals 
+Fosters an environment for high-performing team dynamics, continuous flow, and relentless improvement
+Improves team performance by facilitating and challenging norms in areas of quality, communication, predictability, flow, and velocity
+Facilitates meetings and events
+
+AT backlog : 
+While the backlog seems to be a simple notion, there are some critical concepts behind it, for example: 
+It contains everything. If an item is in the backlog, it might get done. If it isn’t, there is no chance that it will get done. 
+It’s a list of desired items, not a commitment. Items can be estimated in size (preferable) or not but neither case implies a specific time commitment for completion. 
+It has a single owner—the Product Owner—who prioritizes the work and protects the team from the problem of multiple stakeholders, each with potentially divergent views of what’s important. 
+It has stories that can be added by any team member.
+It contains improvement stories, which are stories that capture the results of the team’s iteration retrospective.
+
+IP : 
+The purpose of iteration planning is to organize the work and define a realistic scope for the iteration.
+The outputs of iteration planning are: 
+The iteration backlog, consisting of the stories committed to for the iteration 
+A statement of iteration goals, typically a sentence or two for each one, stating the business objectives of the iteration 
+A commitment by the team to the work needed to achieve the goals
+
+Iteration Review : 
+During the iteration review, the team demonstrates each story accomplished, culminating with the team’s increment of value for that iteration. The team also receives feedback from the product owner and other team stakeholders.
+
+Built-In Quality : 
+
+	Establish Flow : 
+	To develop and release high-quality products quickly, Agile teams operate in a fast, flow-based environment. Creating flow requires eliminating the traditional start-stop-start project initiation and development process, along with the mandatory phase gates that hinder progress. Instead, teams visualize and limit work in process (WIP), reduce the batch sizes of work items, and manage queue lengths. They also base milestones and measures on objective evaluation of working systems.
+	Unlike traditional project management, where success is measured by completing an entire initiative on time and on budget, Agile teams quickly release small pieces of work to learn and adapt. These pieces of work flow through the system quickly to provide feedback and allow course correction. 
+
+	Peer Review and Pairing : 
+	When pairing, two or more team members work on the same item together. Both create and maintain quality because their work will contain the knowledge, perspectives, and best practices from every member. As the saying goes, two heads are better than one!
+	They also raise and broaden the skillset for the entire team as teammates learn from each other. Some teams pair frequently, while others use reviews for feedback and pair when addressing a challenging problem or performing an activity that requires diverse skills. Regardless of the approach, all artifacts are subject to multiple sets of eyes and perspectives before ever being accepted or released to the customer.
+
+	Collective Ownership and Standards : 
+	Collective ownership reduces dependencies between teams and ensures that any individual or team with specialty knowledge will not block the fast flow of value delivery. In the right context, anyone can add functionality, fix errors, improve designs, or refactor, subject to communicating these changes appropriately. Because the work is not owned by one team or individual, supporting standards encourages consistency so that everyone can understand and maintain the quality of each component. Standards also help to assure that individuals don’t make a local change that has an unintended, system-level consequence.
+	
+	Automation  : 
+	Agile teams automate repetitive, manual tasks to increase speed and ensure that these tasks are performed accurately and consistently. Teams typically automate in two ways.
+	They automate the processes that build, deploy, and release the product. This process takes the teams’ raw artifacts (code, models, images, content, etc.), generates production versions as necessary, integrates them across teams, and makes them available in a production environment. 
+	They automate the quality checks along this path to ensure standards are followed, artifacts meet quality levels (e.g., broken link and spelling checkers), etc. 
+	Some disciplines have products that provide these types of automation (e.g., software development, content creation, and publishing). However, these solutions are rarely complete and almost always require some form of scripting or development. In the spirit of cross-functional teams, it’s common to see software developers join non-software teams to support their automation needs. 
+
+
+	Acceptance / Closing the iteration : 		
+	Teams use the definition of done to ensure they agree on and follow a common set of practices when completing work. This sets a quality standard that is general enough to be applied to all the work produced by a team. For example, a few definition of done conditions might be to: 
+	Require work to be peer-reviewed 
+	Show all quality tests passed successfully (ideally automated) 
+	Ensure that all associated files have been checked-in and delivered 
+	Ensure all versions have been generated and published 
+	Check that email notifications have been sent 
+	These agreements align teams around what quality means and how it's built into the product.
+	
+	
+Kanban: A Way to Visualize the Team's Work
+
+Kanban means signboard or signal in Japanese. A Kanban board is a visual way to represent work and limit the amount of parallel work, which helps teams improve their workflow and be more efficient. On a team Kanban board, each column represents a step in the workflow and each story is represented by a physical or electronic card.
+	
+	
+	
