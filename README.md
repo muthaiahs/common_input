@@ -1,2 +1,2 @@
-# common_now
+# common_input
 common_input
